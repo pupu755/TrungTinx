@@ -4,7 +4,7 @@ Bài tập Ch01: Phân tích yêu cầu và Domain Modeling EduHub (HĐ1.3; CLO1
 
 - **Sinh viên thực hiện**: Bùi Trung Tín
 - **MSSV**: 0024416184
-- **Lớp / Khóa**: K28 / CNTT
+- **Lớp / Khóa**: DHCNTT24B-CS
 - **Nhánh nộp bài**: `ch01/0024416184`
 - **Nền tảng**: .NET 8 (C# 12)
 
